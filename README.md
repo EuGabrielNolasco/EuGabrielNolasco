@@ -2,7 +2,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="200px" alt="Warpnet" src="https://lemarq.com.br/site/images/logo.png"/>](https://lemarq.com.br/)
+[<img align="left" height="88px" width="200px" alt="Warpnet" src="https://lemarq.com.br/site/images/logo.png"/>](https://lemarq.com.br/)
 
 **Lemarq Software** \
 [**Lemarq**](https://lemarq.com.br/) • Segunda a Sexta \
