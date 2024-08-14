@@ -13,7 +13,7 @@
   💌 <strong>Entre em contato comigo:</strong> ⤵️
 </p>
 <p align="left">
-  <a href="mailto:nexkho2003@gmail.com" title="Gmail">
+  <a href="https://mailto:nexkho2003@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/eugabrielnolasco/" title="LinkedIn">
