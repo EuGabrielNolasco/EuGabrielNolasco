@@ -1,33 +1,33 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
-  Olá, me chamo Gabriel, sou natural do Rio Grande do Norte de uma cidade chamada Tibau, 
-  sempre gostei da area Ti, e hoje curso uma faculdade de ADS e atualmente sou programdor junior na Lemarq Software
-</p>
-
+<h1>Gabriel | Desenvolvedor Junior</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  Olá, me chamo Gabriel, sou natural de Tibau, no Rio Grande do Norte. Sempre fui apaixonado pela área de TI e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS). Sou desenvolvedor junior na Lemarq Software, onde trabalho com diversas tecnologias e participo de projetos desafiadores.
 </p>
-
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  🦄 <strong>Linguagens:</strong> PHP, Laravel, MySQL, JavaScript, Node.js, Scriptcase
 </p>
-
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💼 <strong>Ferramentas:</strong> Docker, Visual Studio Code, Git
 </p>
-
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  💌 <strong>Entre em contato comigo:</strong> ⤵️
+</p>
+<p align="left">
+  <a href="mailto:nexkho2003@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eugabrielnolasco/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=55084991374095" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://facebook.com/eugabrielnolasco" title="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/eugabrielnolasco" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 <br/>
 ### Experiência de trabalho
