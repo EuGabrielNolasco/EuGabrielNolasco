@@ -6,7 +6,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Lemarq Software** \
 [**Lemarq**](https://lemarq.com.br/) • Segunda a Sexta \
-Linguagens & Tecnologias: `Php`, `Laravel`, `Mysql`, `JavaScript`, `Scriptcase`,\
+Linguagens & Tecnologias: `Php`, `Laravel`, `Mysql`, `JavaScript`, `Scriptcase`, `Node`, `Docker`,\
 Projetos em destaque: [Portal da Transparência](https://lemarq.com.br/), [SISPUB (Sistema Público)](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
