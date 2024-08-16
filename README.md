@@ -37,7 +37,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="88px" width="200px" alt="Warpnet" src="https://lemarq.com.br/site/images/logo.png"/>](https://lemarq.com.br/)
 
 **Lemarq Software** \
-[**Lemarq**](https://lemarq.com.br/) • Segunda a Sexta \
+[**Lemarq**](https://lemarq.com.br/) • Emprego Atual \
 Linguagens & Tecnologias: `Php`, `Laravel`, `Mysql`, `JavaScript`, `Scriptcase`, `Node`, `Docker`,\
 Projetos em destaque: [Portal da Transparência](https://lemarq.com.br/), [SISPUB (Sistema Público)](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
