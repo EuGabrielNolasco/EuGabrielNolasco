@@ -7,7 +7,7 @@
   🦄 <strong>Linguagens:</strong> PHP, Laravel, MySQL, JavaScript, Node.js, Scriptcase
 </p>
 <p align="left">
-  💼 <strong>Ferramentas:</strong> Docker, Visual Studio Code, Git
+  💼 <strong>Ferramentas:</strong> Docker, Visual Studio Code, Git, HeidiSQL, Ubuntu, Node.js
 </p>
 <p align="left">
   💌 <strong>Entre em contato comigo:</strong> ⤵️
