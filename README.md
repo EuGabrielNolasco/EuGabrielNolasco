@@ -4,10 +4,10 @@
   Olá, me chamo Gabriel, sou natural de Tibau, no Rio Grande do Norte. Sempre fui apaixonado pela área de TI e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS). Sou desenvolvedor junior na Lemarq Software, onde trabalho com diversas tecnologias e participo de projetos desafiadores.
 </p>
 <p align="left">
-  🦄 <strong>Linguagens:</strong> PHP, Laravel, MySQL, JavaScript, Node.js, Scriptcase
+  🦄 <strong>Linguagens:</strong> PHP, MySQL, JavaScript, Node.js
 </p>
 <p align="left">
-  💼 <strong>Ferramentas:</strong> Docker, Visual Studio Code, Git, HeidiSQL, Ubuntu, Node.js
+  💼 <strong>Ferramentas:</strong> Docker, Laravel, VS Code, Git, HeidiSQL, Ubuntu, Scriptcase
 </p>
 <p align="left">
   💌 <strong>Entre em contato comigo:</strong> ⤵️
