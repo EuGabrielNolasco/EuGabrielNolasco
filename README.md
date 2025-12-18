@@ -1,4 +1,4 @@
-<h1>Gabriel | Desenvolvedor Junior</h1>
+<h1>Gabriel | Desenvolvedor Pleno</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 <p align="left">
   Olá, me chamo Gabriel, sou natural de Tibau, no Rio Grande do Norte. Sempre fui apaixonado pela área de TI e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS). Sou desenvolvedor junior na Lemarq Software, onde trabalho com diversas tecnologias e participo de projetos desafiadores.
