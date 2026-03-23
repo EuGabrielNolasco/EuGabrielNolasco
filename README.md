@@ -17,12 +17,12 @@
 
 <p align="left">
   <strong>🧰 Ferramentas & Ambiente:</strong><br/>
-  Docker, Git/GitHub, Linux (Ubuntu), VS Code, HeidiSQL, Scriptcase
+  Docker, Git/GitHub, Linux (Ubuntu), VS Code, HeidiSQL
 </p>
 
 <p align="left">
   <strong>🎯 Áreas de atuação:</strong><br/>
-  APIs, integrações, sistemas administrativos, automações, manutenção e evolução de legado.
+  APIs, integrações, sistemas administrativos, automações, manutenção e evolução.
 </p>
 
 <p align="left">
